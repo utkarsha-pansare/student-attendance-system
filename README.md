@@ -10,6 +10,17 @@ A web app built with Django where teachers mark attendance and students track th
 - Defaulters list for teachers
 - Email alerts to defaulters (console backend for demo)
 
+## Screenshots
+
+### Mark Attendance
+![Mark Attendance](screenshots/mark.png)
+
+### Defaulters
+![Defaulters](screenshots/defaulters.png)
+
+### Student Dashboard
+![Student Dashboard](screenshots/dashboard.png)
+
 ## Tech Stack
 Python, Django, SQLite, HTML, Bootstrap, Chart.js
 
@@ -29,5 +40,3 @@ Then open http://127.0.0.1:8000/admin to add students, courses and users, and ht
 
 ## Future Improvements
 - QR code based attendance
-- Defaulter prediction using scikit-learn
-- Deployment on Render
